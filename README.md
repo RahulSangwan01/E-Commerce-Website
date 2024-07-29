@@ -1,2 +1,2 @@
-# E-Commerce-Website
-Welcome to the E-Commerce Website repository! This project is a fully functional e-commerce platform designed to provide a seamless online shopping experience.
+# E-Commerce-Website[Trendify]
+Trendify is pioneering a new era in online electronics shopping with a focus on accessibility, sleek design, and user-centric functionality.
